@@ -2,7 +2,7 @@
 A working GitHub Pages compatible demonstration website.
 
 ## Features
-- Home page and demo login
+- Home page and  login
 - Dashboard with live statistics
 - Add, edit, delete and search students
 - Attendance by date with Present / Absent / Late
@@ -13,7 +13,7 @@ A working GitHub Pages compatible demonstration website.
 - Responsive layout
 - Browser localStorage (no PHP/MySQL needed for this demo)
 
-## Demo login
+
 Username: `admin`
 Password: `1234`
 
